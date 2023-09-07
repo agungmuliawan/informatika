@@ -7,8 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    halossss
-nama saya agung muliawan
-
+BAGUS GANTENG ☝️ 😄 ☝️
 </body>
 </html>
